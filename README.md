@@ -1,2 +1,2 @@
 # clinica_deploy
-Ejemplo de clinica deploy downweb 
+Ejemplo de clinica deploy 
